@@ -53,9 +53,9 @@
   
   .face {
     height: 9rem;
-    -webkit-animation: face-spin 2s infinite linear;
-    -moz-animation: face-spin 2s infinite linear;
-    animation: face-spin 2s infinite linear;
+    -webkit-animation: face-spin 10s infinite linear;
+    -moz-animation: face-spin 10s infinite linear;
+    animation: face-spin 10s infinite linear;
     display: block;
     position: relative;
   }
